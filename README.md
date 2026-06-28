@@ -1,4 +1,5 @@
 # ✌️ Peace Blur Detector
+ouh iya untuk versi python kalian haru pake yang versi 3.11.++ yahh
 
 A simple Computer Vision project that automatically blurs your webcam when a peace sign (✌️) is detected.
 
